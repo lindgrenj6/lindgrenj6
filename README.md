@@ -33,5 +33,6 @@ Past:
 
 ## Passions
 - Containerization
+- Designing effective distributed systems
 - Learning something new every day
 - Knowing the ins/outs of every language I use so I can use it effectively
