@@ -12,9 +12,9 @@ Daily:
 - Ruby and Rails :gem:
 
 Learning:
+- Go 
 - Elixir (anxiously waiting to find a use-case for this at work!)
 - Erlang 
-- Go 
 
 Past:
 - Java
