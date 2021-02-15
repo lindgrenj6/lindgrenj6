@@ -10,9 +10,9 @@
 ## Languages
 Daily:
 - Ruby and Rails :gem:
+- Go 
 
 Learning:
-- Go 
 - Elixir (anxiously waiting to find a use-case for this at work!)
 - Erlang 
 
