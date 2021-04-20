@@ -7,6 +7,8 @@
 ![](http://blog.jetstack.io/images/k8s/logo-small.png)
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/archive/a/af/20050808195403!Tux.png/101px-Tux.png)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lindgrenj6&layout=compact)
+
 ## Languages
 Daily:
 - Ruby and Rails :gem:
