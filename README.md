@@ -11,12 +11,14 @@
 
 ## Languages
 Daily:
+- Go
 - Ruby and Rails :gem:
-- Go 
 
-Learning:
-- Elixir (anxiously waiting to find a use-case for this at work!)
-- Erlang 
+Really like:
+- Elixir
+
+Do not like:
+- Python :P
 
 Past:
 - Java
